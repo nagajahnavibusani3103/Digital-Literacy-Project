@@ -1,0 +1,9 @@
+Title: How a Simple Click Can Lead to a Phishing Attack
+
+In today’s digital world, cybercrimes are becoming more common, and one of the most widespread types is phishing. Phishing is a technique used by attackers to trick people into revealing sensitive information such as passwords, OTPs, or bank details by pretending to be a trusted source.
+
+A typical phishing situation can happen very easily. For example, a student might receive an email or message that looks like it is from a bank or a popular website. The message may say that there is an urgent issue with their account and ask them to click on a link to fix it. Since the message appears genuine, the student may click the link without thinking much.
+
+Once the link is opened, it redirects to a fake website that looks almost exactly like the original one. The student may then enter their login details, believing it is safe. However, this information is directly sent to the attacker, who can misuse it for financial fraud or gain unauthorized access to accounts.
+
+What makes phishing dangerous is how convincing it can be. The design, logos, and messages often look real, making it difficult to identify the scam. This shows that even a small action, like clicking on a link without checking, can lead to serious consequences. Being aware and cautious is the best way to stay safe.
