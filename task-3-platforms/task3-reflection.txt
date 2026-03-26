@@ -1,0 +1,7 @@
+Task 3 Reflection – Platforms Exploration
+
+Working on Task 3 gave me my first real experience of using digital platforms for both learning and interaction. Before this, I had heard about coding platforms, but I had never actually tried solving a problem myself. When I attempted the beginner-level problem on HackerRank, I initially felt unsure, but once I understood the logic, it gave me a sense of confidence. It made me realize that coding is not as difficult as it seems when we break the problem into simple steps.
+
+Creating the Google Form was another interesting part of this task. I learned how to design questions in a structured way and how to collect responses efficiently. Linking the form to a Google Sheet showed me how data can be automatically organized, which is very useful in real-life situations like surveys or feedback collection.
+
+What I found most valuable in this task was understanding how these tools are actually used in academics and beyond. It is not just about knowing the platforms, but about using them in a practical way. This task helped me take my first step towards coding and also improved my understanding of digital collaboration tools.
