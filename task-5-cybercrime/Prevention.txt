@@ -1,5 +1,5 @@
-#🔐 Cybercrime Prevention Checklist
-#🛡️ Stay Safe Online
+🔐 Cybercrime Prevention Checklist
+🛡️ Stay Safe Online
 🔒 Use strong and unique passwords for all your accounts
 📱 Enable two-factor authentication (2FA) for extra security
 🚫 Do not click on unknown or suspicious links
