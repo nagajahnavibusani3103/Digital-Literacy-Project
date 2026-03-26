@@ -1,11 +1,17 @@
-Simple Ways to Stay Safe from Cybercrime
-Always create strong passwords using a mix of letters, numbers, and symbols
-Enable two-factor authentication (2FA) for extra security
-Never click on links from unknown or suspicious emails or messages
-Carefully check website URLs before entering any personal information
-Do not share OTPs, passwords, or bank details with anyone
-Avoid logging into important accounts on public or shared devices
-Be cautious of messages that create urgency or panic
-Use only trusted and official apps or websites
-Keep your phone and apps updated regularly
-Think twice before downloading files from unknown sources
+#🔐 Cybercrime Prevention Checklist
+#🛡️ Stay Safe Online
+🔒 Use strong and unique passwords for all your accounts
+📱 Enable two-factor authentication (2FA) for extra security
+🚫 Do not click on unknown or suspicious links
+🌐 Always check website URLs before entering personal details
+🔑 Never share OTPs, passwords, or bank information with anyone
+💻 Avoid using public or shared devices for sensitive logins
+⚠️ Be careful of messages that create urgency or fear
+✅ Use only trusted and official websites and apps
+🔄 Keep your phone, apps, and system updated regularly
+📥 Do not download files from unknown or untrusted sources
+🚨 Report Cybercrime
+
+🌐 Website: https://www.cybercrime.gov.in
+
+📞 Helpline: 1930
