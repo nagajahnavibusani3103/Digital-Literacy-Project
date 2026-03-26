@@ -18,44 +18,44 @@ Each task in this project gave me practical experience and helped me understand 
 
 ---
 
-## 📝 What I Did in This Project
+# 📝 What I Did in This Project
 
-### 🎨 Task 1 – Digital Literacy Infographic
+# 🎨 Task 1 – Digital Literacy Infographic
 For this task, I created an infographic using Canva 🖌️ to explain digital literacy in a simple and clear way. I included topics like the meaning of digital literacy, useful tools, safe internet practices, and maintaining a professional online presence.  
 
 This task helped me understand how visual content can make information more engaging and easy to understand 🎯.
 
 ---
 
-### 🌐 Task 2 – Digital Portfolio
+# 🌐 Task 2 – Digital Portfolio
 In this task, I created my digital portfolio using platforms like GitHub, LinkedIn, HackerRank, and Kaggle 💻. I updated my profiles and explored how these platforms are used for learning and professional growth.  
 
 This helped me understand the importance of building a strong digital identity from the beginning 🚀.
 
 ---
 
-### 💻 Task 3 – Platforms Exploration
+# 💻 Task 3 – Platforms Exploration
 In Task 3, I explored platforms like HackerRank and Google Forms 📊. I solved a beginner-level coding problem, which helped me understand basic programming logic.  
 
 I also created a Google Form titled “Digital Literacy Awareness Quiz” and linked it to a Google Sheet 📄. This showed me how digital tools can be used for collecting and organizing data.
-
+# Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLScsv8t3vhAnDNALC8DjwRJQ3R-MTGqofmS04fDfgmS_4Y9diQ/viewform?usp=header
 ---
 
-### 📧 Task 4 – Email Etiquette
+# 📧 Task 4 – Email Etiquette
 In this task, I learned how to write professional emails ✉️. I wrote one email for requesting an assignment extension and another for applying for a summer internship.  
 
 I also created a checklist of social media do’s and don’ts ✔️❌. This task helped me understand the importance of clear and respectful communication.
 
 ---
 
-### 🔐 Task 5 – Cybercrime Awareness
+# 🔐 Task 5 – Cybercrime Awareness
 In the final task, I learned about cybercrime, especially phishing attacks ⚠️. I understood how attackers trick users into sharing sensitive information through fake messages and websites.  
 
 I also created a prevention checklist to stay safe online 🛡️. This task made me more aware of online security and responsible internet usage.
 
 ---
 
-## 📂 Project Structure
+# 📂 Project Structure
 
 ```
 
